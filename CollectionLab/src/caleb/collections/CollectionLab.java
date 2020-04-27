@@ -1,8 +1,14 @@
+package caleb.collections;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashSet;
 
+/**
+ * 
+ * @author cfitz
+ *
+ */
 public class CollectionLab {
 
 	public static void main(String[] args) {
